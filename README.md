@@ -48,6 +48,11 @@ Typical columns include:
 
 ## How to load the dataset
 
+### Download
+```sh
+wget https://github.com/steve-abobs/sentiment_dataset/blob/main/sentiment_dataset.csv
+```
+
 ### Python (pandas)
 
 ```python
