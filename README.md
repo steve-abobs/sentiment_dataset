@@ -50,7 +50,7 @@ Typical columns include:
 
 ### Download
 ```sh
-wget https://github.com/steve-abobs/sentiment_dataset/blob/main/sentiment_dataset.csv
+wget https://raw.githubusercontent.com/steve-abobs/sentiment_dataset/refs/heads/main/sentiment_dataset.csv
 ```
 
 ### Python (pandas)
