@@ -12,8 +12,6 @@ Each example in the dataset is labeled with one of three sentiment classes:
 * **negative**
 * **neutral**
 
-### ⚠️ Important note about ordering
-
 The dataset is **not randomly shuffled**.
 
 All samples are ordered **by class** in the following sequence:
